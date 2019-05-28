@@ -1,5 +1,5 @@
 # TasksApp
-A simple tasks app made using the MVVM(Model-View-ViewModel) Architecture. Room Architecture Component was used for Database.
+A simple tasks app made using the MVVM(Model-View-ViewModel) Architecture. Room Architecture Component is used for Database.
 
 ## Task list 
 <img src = "Screenshots/tasks.jpg" width ="300">
